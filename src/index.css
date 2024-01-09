@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(66, 66, 102);
+}
+
+.search {
+  text-align: center;
+  color: azure;
+  margin-top: 120px;
+}
+
+.input {
+  text-align: center;
+  border: none;
+  border-radius: 3px;
+  font-size: 15px;
+}
